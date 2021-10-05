@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: white;
+}
+#navbar {
+  width: 100vw;
+  background-color: rgb(168, 62, 50);
+  height: 50px;
+  overflow: hidden;
+}
+#side_bar {
+  width: 210px;
+  height: 700px;
+  overflow: hidden;
+  position: absolute;
+  font-size: 16px;
+  background-color: aqua;
+}
